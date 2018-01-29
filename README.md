@@ -1,3 +1,7 @@
+
+NOTE: This version includes the safe area changes taken from https://github.com/PureLayout/PureLayout/pull/203
+
+
 # [![PureLayout](https://github.com/PureLayout/PureLayout/blob/master/Images/PureLayout.png?raw=true)](#)
 [![Build Status](http://img.shields.io/travis/PureLayout/PureLayout.svg?style=flat)](https://travis-ci.org/PureLayout/PureLayout) [![Test Coverage](http://img.shields.io/coveralls/PureLayout/PureLayout.svg?style=flat)](https://coveralls.io/r/PureLayout/PureLayout) [![Version](http://img.shields.io/cocoapods/v/PureLayout.svg?style=flat)](http://cocoapods.org/pods/PureLayout) [![Platform](http://img.shields.io/cocoapods/p/PureLayout.svg?style=flat)](http://cocoapods.org/pods/PureLayout) [![License](http://img.shields.io/cocoapods/l/PureLayout.svg?style=flat)](LICENSE)
 
